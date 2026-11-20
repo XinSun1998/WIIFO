@@ -10,11 +10,11 @@ WIIFO is an iterative optimization algorithm designed to synthesize user-defined
 
 - MATLAB 
 - Required MATLAB toolboxes (image processing toolbox)
+- FieldII,Please download from https://field-ii.dk/?examples.html
 
 ## Code
 
 run 'SimulatePatternFieldii.m'
-
 
 ## Usage
 
