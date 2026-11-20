@@ -13,8 +13,8 @@ WIIFO is an iterative optimization algorithm designed to synthesize user-defined
 
 ## Code
 
-- `WIIFO.m`: Main implementation of the WIIFO algorithm.
-- `Pattern.mat`: Contains the designed patterns used for acoustic field synthesis in the manuscript.
+run 'SimulatePatternFieldii.m'
+
 
 ## Usage
 
